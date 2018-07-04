@@ -1,4 +1,6 @@
-## This party game gives «Truth or Dare» a proper overhaul. We dare you to open Pandora’s Box…
+## Pandoras - Devils Drinking game
+
+### This party game gives «Truth or Dare» a proper overhaul. We dare you to open Pandora’s Box…
 
 Break the ice, get to know each other, laugh, cry and take the party to a whole new level with this party booster of a drinking game!
 <br/><br/>
