@@ -8,6 +8,6 @@ Break the ice, get to know each other, laugh, cry and take the party to a whole 
 <br/><br/>
 <a href="https://itunes.apple.com/us/app/pandoras-devils-drinking-game/id873579821">Download from the iOS AppStore</a>
 <br/><br/>
-<a href="/privacy.html" target="_blank">Privacy policy</a>
+<a href="https://www.idehub.com/privacy.html" target="_blank">Privacy policy</a>
 
 Pandoras App AS is a subsidiary of [Idéhub AS](https://www.idehub.com/).
